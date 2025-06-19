@@ -1,2 +1,3 @@
 # godex
-An HTML5 version of the D&amp;D 5.2 SRD, built as the foundation for a full virtual tabletop platform.
+
+Godex is the start of a modular D&D 5.2 experience on the web. Initially, it provides a simple HTML5 version of the SRD 5.2 for easy browsing. Eventually, it will evolve into a full-featured virtual tabletop platform with Go backend support, real-time play tools, and more
